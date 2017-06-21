@@ -1,0 +1,40 @@
+<h2>Product No</h2>
+<p>
+<ac:structured-macro ac:macro-id="f03adfd6-bf34-4016-ae6f-124bd5808f02" ac:name="text-data" ac:schema-version="1">
+    <ac:parameter ac:name="name">Product No</ac:parameter>
+    <ac:parameter ac:name="type">line</ac:parameter>
+    <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+    <ac:rich-text-body>
+        <p> </p>
+    </ac:rich-text-body>
+</ac:structured-macro> </p>
+<h2>Product Name</h2>
+<p>
+<ac:structured-macro ac:macro-id="1b126f6e-d28f-43bb-a0a4-63726706b4bf" ac:name="text-data" ac:schema-version="1">
+    <ac:parameter ac:name="name">Product Name</ac:parameter>
+    <ac:parameter ac:name="type">line</ac:parameter>
+    <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+    <ac:rich-text-body>
+        <p> </p>
+    </ac:rich-text-body>
+</ac:structured-macro> </p>
+<h2>Description</h2>
+<p>
+<ac:structured-macro ac:macro-id="7e6cc3e3-1c07-4712-aeae-4964760a37ac" ac:name="text-data" ac:schema-version="1">
+    <ac:parameter ac:name="name">Description</ac:parameter>
+    <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+    <ac:rich-text-body>
+        <p> </p>
+    </ac:rich-text-body>
+</ac:structured-macro> </p>
+<h2>Unit Price</h2>
+<p>
+<ac:structured-macro ac:macro-id="c2c7989d-ffbd-4fda-a695-8e613562f39d" ac:name="text-data" ac:schema-version="1">
+    <ac:parameter ac:name="name">Unit Price</ac:parameter>
+    <ac:parameter ac:name="type">line</ac:parameter>
+    <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+    <ac:rich-text-body>
+        <p> </p>
+    </ac:rich-text-body>
+</ac:structured-macro>
+</p>
